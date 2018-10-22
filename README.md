@@ -12,7 +12,7 @@ La solution de base est d'utiliser une agora, un lieu de rencontre où les "cam�
 L'autre solution, beaucoup plus complexe, est de faire se rencontrer deux "caménéons" au hasard. Cela signifie qu'il n'y a pas d'agora prédéfinie, les "caménéons" vont d'eux-mêmes chercher leur partenaire. C’est une solution répartie où un caménéon doit pouvoir lancer une demande de rendez-vous et aussi répondre à une demande d’autres "caménéons". Bien entendu, la combinatoire de cette solution est beaucoup plus élevée, et la validation d'une telle solution beaucoup plus complexe. Notamment pour garantir l’absence d’interblocage (tous sont en état d’appel et aucun n’est en état de répondre) et pour vérifier la non présence de famine d'un caménéon (la solitude éternelle).
 
 
-3 >>> Propriétés attendues, QOS
+3 >>> Propriétés attendues, QOS:
 
 Respect du rendez vous entre deux caménéons et deux seulement.
 Pas d’interblocage.
