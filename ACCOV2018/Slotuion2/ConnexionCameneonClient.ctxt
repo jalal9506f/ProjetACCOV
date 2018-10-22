@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ConnexionCameneonClient
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=socket
+comment2.target=java.io.BufferedReader\ getLecture(java.net.Socket)
+comment2.text=\r\n\ Faire\ lire\ du\ socket\r\n\r\n\ @param\ socket\r\n\r\n
+comment3.params=socket
+comment3.target=java.io.PrintWriter\ getEcriture(java.net.Socket)
+comment3.text=\r\n\ Faire\ ecrire\ sure\ socket\r\n\r\n\ @param\ socket\r\n\r\n
+comment4.params=couleur
+comment4.target=boolean\ couleurExiste(java.lang.String)
+comment4.text=\r\n\ Savoire\ sur\ le\ courant\ couleur\ existe\r\n\r\n\ @param\ couleur\ Couleur\ entrer\ par\ le\ cameneon\ client\r\n\ @return\ Boolean\r\n
+comment5.params=couleur
+comment5.target=java.lang.String\ capitalizerPremierLetter(java.lang.String)
+comment5.text=\r\n\ capitalizer\ la\ premiere\ lettre\ du\ mot\r\n\r\n\ @param\ couleur\ Couleur\ entrer\ par\ le\ cameneon\ client\r\n\ @return\ String\r\n
+numComments=6

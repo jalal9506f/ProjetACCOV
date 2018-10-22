@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GererDifferentClientCameneon
+comment1.params=socket\ listeCameneon
+comment1.target=GererDifferentClientCameneon(java.net.Socket,\ GererListeCameneon)
+comment1.text=\r\n\ Constructeur.\r\n\r\n\ Gerer\ la\ cameneon\ qui\ arrive\ au\ serveur\ est\ le\ mettre\ dans\ la\ liste\r\n\ @param\ socket\ Socket\ de\ cameneon\r\n\ @param\ listeCameneon\ Liste\ des\ cameneon\ courant\r\n\ @throws\ java.io.IOException\ Exception\ produit\ par\ les\ operation\ lecture/ecriture\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\r\n\ Pour\ savoir\ l'etat\ courant\ de\ serveur\ est\ l'info\ des\ client\ \r\n\ qui\ arrive\ a\ se\ serveur\ et\ pour\ faire\ la\ mutation\ des\ cameneon\ et\ fait\ \r\n\ attendre\ les\ cameneon\ qui\ n'ont\ pas\ des\ partenaire\r\n
+numComments=3

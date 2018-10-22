@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GererListeCameneon
+comment1.params=
+comment1.target=GererListeCameneon()
+comment1.text=\r\n\ Constructeur.\r\n\r\n\ initializer\ un\ liste\ par\ default\ a\ premier\ demarre\r\n
+comment2.params=
+comment2.target=int\ getCompteClientAttendu()
+comment2.text=\r\n\ Cette\ methode\ est\ pour\ retourner\ nombre\ client\ attendu\r\n\r\n\ @return\ int\r\n
+comment3.params=methode
+comment3.target=void\ setCompteClientAttendu(java.lang.String)
+comment3.text=\r\n\ Cette\ methode\ est\ pour\ modifier\ la\ nombre\ client\ attendu\r\n\r\n\ @param\ methode\ Pour\ savoir\ si\ il\ faut\ ajouter\ ou\ diminuer\ le\ nombre\ cameneon\ attendu\r\n
+comment4.params=cameneonClient
+comment4.target=void\ ajouterCameneonClient(Cameneon)
+comment4.text=\r\n\ Cette\ methode\ est\ pour\ ajouter\ un\ client\ cameneon\ a\ la\ liste\r\n\r\n\ @param\ cameneonClient\ Objet\ cameneon\ veut\ connecter\r\n
+comment5.params=cameneon
+comment5.target=void\ supprimerCameneonDeListe(Cameneon)
+comment5.text=\r\n\ Cette\ methode\ est\ pour\ supprimer\ un\ client\ cameneon\ de\ la\ liste\r\n\r\n\ @param\ cameneon\ Objet\ Cameneon\r\n\ @throws\ java.io.IOException\ Exception\ produit\ par\ les\ operation\ lecture/ecriture\r\n
+comment6.params=autreCameneon\ Couleur
+comment6.target=void\ faireMutation(Cameneon,\ java.lang.String)
+comment6.text=\r\n\ Cette\ methode\ est\ pour\ faire\ la\ mutation\ entre\ les\ deux\ cameneon\ client\r\n\r\n\ @param\ autreCameneon\ Objet\ Cameneon\r\n\ @param\ Couleur\ La\ couleur\ de\ cameneon\r\n
+comment7.params=cameneon\ autreCameneon\ couleur
+comment7.target=void\ gererMutation(Cameneon,\ Cameneon,\ java.lang.String)
+comment7.text=\r\n\ Cette\ methode\ est\ pour\ gerer\ la\ courant\ mutation\ entre\ les\ deux\ cameneon\r\n\r\n\ @param\ cameneon\ Objet\ cameneon\r\n\ @param\ autreCameneon\ La\ couleur\ d'un\ autre\ cameneon\r\n\ @param\ couleur\ La\ couleur\ de\ cameneon\r\n
+numComments=8

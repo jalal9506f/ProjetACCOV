@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GererArriverCameneon
+comment1.params=lecture\ ecriture\ Couleur
+comment1.target=GererArriverCameneon(java.io.BufferedReader,\ java.io.PrintWriter,\ java.lang.String)
+comment1.text=\r\n\ Constructeur.\ Gerer\ l'ecriture\ est\ la\ lecture\ et\ l'ecriture\ de\ cameneon\r\n\ pour\ savoir\ l'info\ courant\ de\ cette\ cameneon\r\n\r\n\ @param\ lecture\ Lecteur\ d'un\ cameneon\ message\r\n\ @param\ ecriture\ Ecriveur\ d'un\ cameneon\ message\r\n\ @param\ Couleur\ Couleur\ cameneon\r\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\r\n\ Faire\ tous\ les\ action\ qui\ faut\ etre\ faire\ par\ chaque\ cameneon\ \r\n\ client\ manger,entrainer,aller\ au\ mail\ et\ faire\ un\ mutation\r\n\ \r\n
+numComments=3

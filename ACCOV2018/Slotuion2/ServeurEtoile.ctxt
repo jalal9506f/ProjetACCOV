@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ServeurEtoile
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=listeCameneon
+comment2.target=void\ gererServeur(GererListeCameneon)
+comment2.text=\r\n\ Cette\ methode\ est\ pour\ gerer\ la\ creation\ de\ serveur\ socket\ Le\ serveur\r\n\ socket\ est\ cree\ sur\ la\ port\ 1323\ qu'il\ faut\ etre\ connecter\ par\ le\ client\r\n\ socket\r\n\r\n\ @param\ listeCameneon\ la\ liste\ des\ cameneon\ courant\r\n\ @throws\ java.io.IOException\ exceptions\ produced\ by\ failed\ or\ interrupted\ I/O\ operations\r\n
+numComments=3

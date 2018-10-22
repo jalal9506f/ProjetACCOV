@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Color
+comment1.params=color
+comment1.target=Color(int)
+comment2.params=peerColor
+comment2.target=Color\ changerCouleur(Color)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

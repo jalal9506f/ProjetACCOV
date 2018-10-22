@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cameneon
+comment1.params=mail\ id\ color
+comment1.target=Cameneon(Mail,\ CameneonID,\ Color)
+comment2.params=infoCourant
+comment2.target=void\ donnerInformation(java.lang.String)
+comment3.params=
+comment3.target=void\ manger()
+comment4.params=
+comment4.target=void\ entrainer()
+comment5.params=
+comment5.target=void\ allerAuMail()
+comment6.params=
+comment6.target=void\ faireMutation()
+comment7.params=
+comment7.target=void\ run()
+numComments=8
